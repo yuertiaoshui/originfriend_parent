@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/originfriend_article/originfriend_article.iml" filepath="$PROJECT_DIR$/originfriend_article/originfriend_article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/originfriend_base/originfriend_base.iml" filepath="$PROJECT_DIR$/originfriend_base/originfriend_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/originfriend_common/originfriend_common.iml" filepath="$PROJECT_DIR$/originfriend_common/originfriend_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/originfriend_gathering/originfriend_gathering.iml" filepath="$PROJECT_DIR$/originfriend_gathering/originfriend_gathering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/originfriend_parent.iml" filepath="$PROJECT_DIR$/originfriend_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/originfriend_qa/originfriend_qa.iml" filepath="$PROJECT_DIR$/originfriend_qa/originfriend_qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/originfriend_recruit/originfriend_recruit.iml" filepath="$PROJECT_DIR$/originfriend_recruit/originfriend_recruit.iml" />
+    </modules>
+  </component>
+</project>
